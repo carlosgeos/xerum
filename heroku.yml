@@ -1,0 +1,7 @@
+build:
+  docker:
+    web:
+      dockerfile: Dockerfile
+      target: prod
+
+# run: not needed, Heroku uses the Dockerfile's CMD

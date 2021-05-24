@@ -1,0 +1,17 @@
+{
+  "name": "Xerum",
+  "description": "A (cheap) Xero clone.",
+  "keywords": [
+    "flask-api",
+    "balance-sheet",
+    "csv"
+  ],
+  "repository": "https://github.com/carlosgeos/xerum",
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "hobby"
+    }
+  },
+  "stack": "container"
+}
